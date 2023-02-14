@@ -1,5 +1,7 @@
 #include <SPI.h>
 
+// Serial LTC program by Amala Jaison
+
 // LTC SPI communications parameters
 const int chipSelectPin=10;
 uint8_t channel;
